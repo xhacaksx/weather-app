@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url(/home/akshat/weather-app/clear.jpg);
+    background-image: url(clouds.jpeg);
     height: 100vh;
     overflow: hidden;
     background-repeat: no-repeat;
